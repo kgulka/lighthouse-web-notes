@@ -1,8 +1,9 @@
 # Kent's Notes
 
 ## Summary
-This repository contains all of the notes taken by Kent gor the Lighthouse Labs Web Development Bootcamp.
+This repository contains all of the notes taken by [Kent Gulka](https://github.com/kgulka) for the [Lighthouse Labs](https://www.lighthouselabs.ca/) Web Development Bootcamp.
 
-[Kent Gulka](https://github.com/kgulka)
-
-[Lighthouse Labs](https://www.lighthouselabs.ca/)
+## Table of Contents
+* [Week 1](/Week_1)
+  * [Day 1](/Week_1/Day_1)
+  
